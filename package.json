@@ -1,0 +1,69 @@
+{
+  "name": "fem-dictionary-web-app",
+  "version": "1.0.0",
+  "description": "Front-end mentor dictionary web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefcooper/fem-dictionary-web-app.git"
+  },
+  "author": "Jeff Cooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefcooper/fem-dictionary-web-app/issues"
+  },
+  "homepage": "https://github.com/jefcooper/fem-dictionary-web-app#readme",
+  "devDependencies": {
+    "glob": "^8.0.3",
+    "path": "^0.12.7",
+    "sass": "^1.57.1",
+    "vite": "^5.0.11"
+  },
+  "dependencies": {
+    "anymatch": "^3.1.3",
+    "balanced-match": "^1.0.2",
+    "binary-extensions": "^2.2.0",
+    "brace-expansion": "^2.0.1",
+    "braces": "^3.0.2",
+    "chokidar": "^3.5.3",
+    "esbuild": "^0.16.17",
+    "fill-range": "^7.0.1",
+    "fs.realpath": "^1.0.0",
+    "fsevents": "^2.3.2",
+    "function-bind": "^1.1.1",
+    "glob-parent": "^5.1.2",
+    "has": "^1.0.3",
+    "immutable": "^4.2.2",
+    "inflight": "^1.0.6",
+    "inherits": "^2.0.4",
+    "is-binary-path": "^2.1.0",
+    "is-core-module": "^2.11.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "minimatch": "^5.1.6",
+    "nanoid": "^3.3.4",
+    "normalize-path": "^3.0.0",
+    "once": "^1.4.0",
+    "path-parse": "^1.0.7",
+    "picocolors": "^1.0.0",
+    "picomatch": "^2.3.1",
+    "postcss": "^8.4.21",
+    "process": "^0.11.10",
+    "readdirp": "^3.6.0",
+    "resolve": "^1.22.1",
+    "rollup": "^3.10.1",
+    "source-map-js": "^1.0.2",
+    "supports-preserve-symlinks-flag": "^1.0.0",
+    "to-regex-range": "^5.0.1",
+    "util": "^0.10.4",
+    "vue": "^3.4.13",
+    "wrappy": "^1.0.2"
+  },
+  "keywords": []
+}
